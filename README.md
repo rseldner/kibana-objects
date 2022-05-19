@@ -1,0 +1,3 @@
+# kibana-objects
+
+Just a place to toss saved searches, visualizations, alerts, etc...
