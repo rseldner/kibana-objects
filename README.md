@@ -7,7 +7,7 @@ Just a place to toss saved searches, visualizations, alerts, etc...
 |Crawl Logs Discover.ndjson| Saved Search + Index Pattern for viewing Enterprise Search App Search Crawler Logs| Import, jump over to Discover, Open "Crawl Logs - 1"| 8.0.0|
 |Crawl Logs Dashboard.ndjson| Dashboard Enterprise Search App Search Crawler Logs|Import, jump over to Dashboards, Open "Crawl Dashboard - 1"| 8.3.0|
 |ilm_rollover_dates.ndjson|ILM Rollover Rates |Data view and example heatmap showing rollover frequency per alias/datastream [source gist](https://gist.github.com/rseldner/57517403ca9255576a0651e91a83fff8)|8.8+|
-|kibana_analytics_field_usage.md|Kibana Analytics Field Usage|data view and example dashboard field usage per saved object [source gist](https://gist.github.com/rseldner/ce239132959946888e790818104a5da8)|8.19+|
+|kibana_analytics_field_usage.ndjson|Kibana Analytics Field Usage|see kibana_analytics_field_usage.md data view and example dashboard field usage per saved object [source gist](https://gist.github.com/rseldner/ce239132959946888e790818104a5da8)|8.19+|
 
 # Screenshots
 
